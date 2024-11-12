@@ -1,0 +1,33 @@
+.form-control {
+    width: 444px;
+    height: 66px;
+    border-radius: 3px;
+}
+
+.btn {
+    width: 444px;
+    height: 66px;
+    background-color: #FF6200;
+    border-radius: 3px;
+    color: #fff;
+}
+
+.btn__not {
+    width: 444px;
+    height: 66px;
+    border: 1px solid #FF6200;
+    background-color: #fff;
+    border-radius: 3px;
+    color: #FF6200;
+    margin-top: 20px;
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
